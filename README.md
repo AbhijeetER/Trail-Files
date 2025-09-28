@@ -101,10 +101,13 @@ Open a Pull Request with a clear description of your changes.
 ❓ FAQ
 
 Q: What types of logs can Trail-Files handle?
+
 A: CSV, TXT, and other structured or semi-structured logs.
 
 Q: How does OpenSearch help?
+
 A: OpenSearch indexes all log entries for high-speed searches and supports complex queries to find specific events.
 
 Q: Can this project scale for large datasets?
+
 A: Yes, MongoDB and OpenSearch are designed to handle large-scale data efficiently, making this project suitable for enterprise-level log management.
